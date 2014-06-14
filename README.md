@@ -1,4 +1,4 @@
 Minecraft
 =========
 
-[Overviewer](http://minecraft.incuna.com/)
+[Overviewer](http://map.minecuna.co.uk/)
